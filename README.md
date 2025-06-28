@@ -1,4 +1,4 @@
-# AI-calssroom-assistant
+# AI-classroom-assistant
 This is a project about an AI classroom assistant that transcribes and summarizes the lecture, creates quizzes, and gives answers to prompts 
 
 For this to run we need ffmpeg installed
