@@ -1,4 +1,7 @@
 # AI-classroom-assistant
+ patch-2
+This is a project about an AI classroom assistant that transcribes and summarizes the lecture, creates quizzes, and gives answers to prompts 
+ main
 
 This is a project about an AI classroom assistant that transcribes , summarizes the lecture, creates quizzes, and gives answers to prompts from the recoreded classroom session
 
